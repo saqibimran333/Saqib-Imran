@@ -1,14 +1,14 @@
 {
-    "name": "KnightBot-MD",
+    "name": "TalkNest",
     "description": "Advanced WhatsApp Bot with Multiple Features",
     "keywords": [
         "bot",
         "whatsapp",
         "whatsapp-bot",
-        "knightbot",
+        "talknest",
         "multi-device"
     ],
-    "repository": "https://github.com/mruniquehacker/Knightbot-MD",
+    "WA Group": "https://chat.whatsapp.com/DQpH8dEBuTB34wlaHgdsqQ",
     "stack": "container",
     "env": {
         "SESSION_ID": {
@@ -16,7 +16,7 @@
             "required": false
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 911234567890)",
+            "description": "Your WhatsApp number (e.g., 923418501562)",
             "required": false
         },
         "PREFIX": {
